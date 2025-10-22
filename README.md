@@ -7,9 +7,10 @@ Je conçois, développe et déploie des applications web et mobiles performantes
 
 ### 🚀 Ce que je fais
 - 🧠 Développement front-end : React, Next.js, Vue.js, Tailwind CSS  
-- ⚙️ Back-end : Node.js, Express, Firebase, Supabase, Prisma  
-- 🎨 Design UI/UX : Figma, prototypage, design systems  
-- 🔐 Auth & intégrations : Firebase Auth, OAuth, API REST  
+- ⚙️ Back-end : Node.js, Express, Firebase, MySQL, Prisma  
+- 🖼️🎨🖌️ conception de l'application cross platform avec react native, design moderne une bon expérience utilisateur et interface utilisateur 
+- 🔐 Auth & intégrations : Firebase Auth, OAuth, API REST 
+
 
 ---
 
