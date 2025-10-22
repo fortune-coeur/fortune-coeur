@@ -28,7 +28,8 @@ Je conçois, développe et déploie des applications web et mobiles performantes
 ![React](https://img.shields.io/badge/React-181717?logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-181717?logo=firebase)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?logo=tailwindcss)
-![Figma](https://img.shields.io/badge/Figma-181717?logo=figma)
+![expo](https://img.shields.io/badge/Figma-181717?logo=expo)
+![python](https://img.shields.io/badge/Figma-181717?logo=python)
 
 ---
 
