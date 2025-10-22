@@ -31,12 +31,16 @@ Je conçois, développe et déploie des applications web et mobiles performantes
 ![expo](https://img.shields.io/badge/expo-181717?logo=expo)
 ![python](https://img.shields.io/badge/python-181717?logo=python)
 ![mysql](https://img.shields.io/badge/mysql-181717?logo=mysql)
-
+![postgreSql](https://img.shields.io/badge/postgresql-181717?logo=postgresql)
+![django](https://img.shields.io/badge/django-181717?logo=django)
+![sqlserver](https://img.shields.io/badge/slqserver-181717?logo=sqlserver)
+![android](https://img.shields.io/badge/android-181717?logo=android)
+![postman](https://img.shields.io/badge/postman-181717?logo=postman)
 
 ---
 
 ### 🌍 Me retrouver
-[🔗 LinkedIn](https://linkedin.com/in/)  
+[🔗 LinkedIn](https://www.linkedin.com/in/fortune-tech/)  
 [💼 Portfolio](https://fortunetech.vercel.app)  
 [🐙 GitHub](https://github.com/fortune-coeur)
 
