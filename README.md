@@ -37,6 +37,7 @@ Je conçois, développe et déploie des applications web et mobiles performantes
 ![postman](https://img.shields.io/badge/postman-181717?logo=postman)
 ![apple](https://img.shields.io/badge/apple-181717?logo=apple)
 ![html](https://img.shields.io/badge/html-181717?logo=html)
+![bootstrap](https://img.shields.io/badge/bootstrap-181717?logo=bootstrap)
 
 ---
 
