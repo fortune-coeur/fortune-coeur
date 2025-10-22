@@ -33,10 +33,8 @@ Je conçois, développe et déploie des applications web et mobiles performantes
 ---
 
 ### 🌍 Me retrouver
-[🔗 LinkedIn](https://linkedin.com/in/tonprofil)  
-[💼 Portfolio](https://tonsite.com)  
-[🐙 GitHub](https://github.com/Dev-Fortune)
+[🔗 LinkedIn](https://linkedin.com/in/)  
+[💼 Portfolio](https://fortunetech.vercel.app)  
+[🐙 GitHub](https://github.com/fortune-coeur)
 
 ---
-
-> _“Code propre, design clair, impact durable.”_
