@@ -33,9 +33,9 @@ Je conçois, développe et déploie des applications web et mobiles performantes
 ![mysql](https://img.shields.io/badge/mysql-181717?logo=mysql)
 ![postgreSql](https://img.shields.io/badge/postgresql-181717?logo=postgresql)
 ![django](https://img.shields.io/badge/django-181717?logo=django)
-![sqlserver](https://img.shields.io/badge/slqserver-181717?logo=sqlserver)
 ![android](https://img.shields.io/badge/android-181717?logo=android)
 ![postman](https://img.shields.io/badge/postman-181717?logo=postman)
+![apple](https://img.shields.io/badge/apple-181717?logo=apple)
 
 ---
 
